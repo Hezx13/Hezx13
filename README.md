@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Miki</h1>
+<h3 align="center">A Web Developer </h3>
 
-<!--
-**Hezx13/Hezx13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with: **React**
+- 🌱 I’m currently learning: **ASP.NET**
+- 📫 How to reach me: **nikolaipozitif@gmail.com**
+- 
+## 🚀 Languages and Tools:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.icons8.com/color/452/html-5.png" alt="html5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/css3.png" alt="css3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/javascript.png" alt="javascript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/typescript.png" alt="typescript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/c-sharp-logo.png" alt="csharp" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/dot-net-core.png" alt="dotnet" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/react-native.png" alt="react" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/452/unity.png" alt="unity" width="40" height="40"/>
+</p>
