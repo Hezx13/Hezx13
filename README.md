@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Miki</h1>
-<h3 align="center">A Web Developer </h3>
+<h3 align="center">A Web Developer and student of CS</h3>
 
 - 🔭 I’m currently working with: **React**
 - 🌱 I’m currently learning: **ASP.NET**
