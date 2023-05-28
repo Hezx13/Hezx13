@@ -13,7 +13,7 @@
   <img src="https://img.icons8.com/color/452/javascript.png" alt="javascript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/452/typescript.png" alt="typescript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/452/c-sharp-logo.png" alt="csharp" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/452/dot-net-core.png" alt="dotnet" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/asp.png" alt="aspnet" width="40" height="40"/>
   <img src="https://img.icons8.com/color/452/react-native.png" alt="react" width="40" height="40"/>
   <img src="https://img.icons8.com/color/452/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>
   <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" width="40" height="40"/>
