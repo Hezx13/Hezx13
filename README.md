@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer and student of CS</h3>
 
 - 🔭 I’m currently working with: **React**
-- 🌱 I’m currently learning: **ASP.NET**
+- 🌱 I’m currently learning: **EXPRESS.JS**
 - 📫 How to reach me: **nikolaipozitif@gmail.com**
 - 
 ## 🚀 Languages and Tools:
