@@ -2,7 +2,7 @@
 <h3 align="center">A Software developer and student of CS</h3>
 
 - 🔭 I’m currently working with: **React, Node.js, MongoDB**
-- 🌱 I’m currently learning: **MS SQL**
+- 🌱 I’m currently learning: **Websockets**
 - 📫 How to reach me: **nikolaipozitif@gmail.com**
 - 
 ## 🚀 Languages and Tools:
